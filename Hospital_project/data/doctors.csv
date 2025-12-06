@@ -1,0 +1,26 @@
+"doctor_id","doctor_name","specialization","dep_id","salary"
+1,"Dr. Ahmed","Cardiologist",1,21575
+2,"Dr. Sara","Pediatrician",2,18139
+3,"Dr. Karim","Orthopedic",3,19376
+4,"Dr. Mona","Neurologist",4,23501
+5,"Dr. Ehab","Dermatologist",5,16270
+6,"Dr. Laila","Oncologist",6,22072
+7,"Dr. Samer","Radiologist",7,23114
+8,"Dr. Heba","ENT Specialist",8,16171
+9,"Dr. Ziad","Eye Surgeon",9,15030
+10,"Dr. Hossam","Urologist",10,22235
+11,"Dr. Omar","Physician",11,19511
+12,"Dr. Nour","Gastro Specialist",12,21396
+13,"Dr. Fady","Psychiatrist",13,21710
+14,"Dr. Kareem","Dentist",14,23944
+15,"Dr. Ayman","Chest Specialist",15,18927
+16,"Dr. Rania","Kidney Specialist",16,24292
+17,"Dr. Youssef","Hormone Specialist",17,24343
+18,"Dr. Mahmoud","Rheumatologist",18,15295
+19,"Dr. Dina","ER Doctor",19,15711
+20,"Dr. Adel","Surgeon",20,23470
+21,"Dr. Nader","Plastic Surgeon",21,20550
+22,"Dr. Rasha","Blood Specialist",22,17594
+23,"Dr. Marwan","ICU Doctor",23,15007
+24,"Dr. Hany","Rehab Doctor",24,20908
+25,"Dr. Maged","Geriatrician",25,16160

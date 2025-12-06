@@ -1,0 +1,26 @@
+"treat_id","app_id","diagnosis","cost"
+1,7,"Flu",1140
+2,9,"Headache",938
+3,10,"Fracture",460
+4,10,"Heart issue",1482
+5,2,"Stomach pain",694
+6,10,"Back pain",1519
+7,22,"Migraine",1229
+8,15,"High blood pressure",1780
+9,18,"Low blood sugar",875
+10,8,"Knee injury",1959
+11,1,"Skin rash",2119
+12,9,"Depression",956
+13,6,"Anxiety",433
+14,14,"Allergy",425
+15,1,"Infection",892
+16,23,"Muscle strain",1124
+17,7,"Asthma",1377
+18,23,"Diabetes",890
+19,24,"Arthritis",1943
+20,9,"COVID-19",1601
+21,8,"Ear infection",1885
+22,12,"Eye irritation",2155
+23,17,"Kidney stone",1807
+24,10,"Lung issue",1801
+25,6,"Fatigue",1919
