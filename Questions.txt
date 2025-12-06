@@ -1,0 +1,49 @@
+Q1: get each dodctor and the number of patient they have treated
+
+
+
+Q2: find patients whose number of visits is above the average number of visits for all patients
+
+
+
+Q3 : find patients who visited doctors of the same specialty more than once
+
+
+
+Q4 : get all doctors who have no appointments 
+
+
+
+Q5 : find patient who paid more than 2000 in total
+
+
+
+Q6 : Get the most requested medical specialty (by number of appointments)
+
+
+
+Q7 : Find patients who visited more than 3 different doctors
+
+
+
+Q8 : Get the next upcoming appointment for each patient
+
+
+
+Q9 : Find doctors whose patients have an average bill amount higher than 300
+
+
+
+Q10 : Get patients who visited only Cardiology doctors
+
+
+
+Q11 : Find the patient with the highest total treatment cost
+
+
+
+Q12 : Find doctors with more patients than the average doctor
+
+
+
+Q13 : Find patients who received more than one type of medication
